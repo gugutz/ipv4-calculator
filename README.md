@@ -8,4 +8,5 @@ The algorithim is entirely procedural, and also very simple (and badly coded).
 Saving it here for the good memories.
 
 To compile (in Linux) run:
+
 gcc main.c -o nameyouwant
